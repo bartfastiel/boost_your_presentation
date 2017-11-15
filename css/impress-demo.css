@@ -1,6 +1,9 @@
 body {
     transition: background-color 1000ms linear, color 1000ms linear;
     font-family: 'PT Sans', sans-serif;
+    	font-size: 15vh;
+	text-align: center;
+    
 }
 
 ul {
@@ -10,59 +13,25 @@ ul {
 .step { width: 80vw; }
 
 #title {
-
 	font-size: 20vh;
-	text-align: center;
-}
-
-#requirements {
-	font-size: 15vh;
-	text-align: center;
 }
 
 #title2 {
-    font-family: 'PT Sans', sans-serif;
-
 	font-size: 20vh;
-	text-align: center;
 }
 
 .impress-on-title2 {
     background-color: yellow;
-    color: #000;
 }
 
-#closeeyes {
-    font-family: 'PT Sans', sans-serif;
-
-	font-size: 20vh;
-	text-align: center;
-}
-
-.impress-on-closeeyes {
+.impress-on-darkness0 {
     background-color: black;
-    color: #555;
-}
-
-#part1 {
-	font-size: 15vh;
-	text-align: center;
-	line-height: 2em;
-}
-
-#darkness1 {
 }
 
 .impress-on-darkness1 {
     background-color: black;
-    color: black;
 }
 
-#part2 {
-	font-size: 15vh;
-	text-align: center;
-	line-height: 2em;
-}
 
 
 
