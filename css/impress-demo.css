@@ -1,5 +1,5 @@
 body {
-    transition: background-color 1000ms linear, color 1000ms linear;
+    transition: background-color 1000ms linear, color 1000ms linear, opacity 1000ms linear;
     font-family: 'PT Sans', sans-serif;
   	font-size: 15vh;
 	text-align: center;
@@ -27,15 +27,31 @@ ul {
     color: yellow;
 }
 
+#title21 {
+	font-size: 20vh;
+}
+
+.impress-on-title21 {
+    color: yellow;
+}
+
 .impress-on-darkness0 {
-    color: black;
+    color: yellow;
+	opacity: 0;
 }
 
 .impress-on-darkness1 {
-    color: black;
+    opacity: 0;
 }
 
+.impress-on-box .step {
+    opacity: 0.5;
+}
 
-
-
-
+.impress-on-box .present {
+    border: solid 3vh white;
+    opacity: 1;
+    transition: border-color 10000ms ease, opacity 1000ms linear;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
