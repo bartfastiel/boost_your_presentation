@@ -1,16 +1,19 @@
 body {
     transition: background-color 1000ms linear, color 1000ms linear;
     font-family: 'PT Sans', sans-serif;
-    	font-size: 15vh;
+  	font-size: 15vh;
 	text-align: center;
-    
+	background-color: black;
+	color: white;
 }
 
 ul {
   list-style-type: none;
 }
 
-.step { width: 80vw; }
+.step {
+	width: 80vw;
+}
 
 #title {
 	font-size: 20vh;
@@ -21,15 +24,15 @@ ul {
 }
 
 .impress-on-title2 {
-    background-color: yellow;
+    color: yellow;
 }
 
 .impress-on-darkness0 {
-    background-color: black;
+    color: black;
 }
 
 .impress-on-darkness1 {
-    background-color: black;
+    color: black;
 }
 
 
