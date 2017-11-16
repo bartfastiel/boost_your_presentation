@@ -23,27 +23,6 @@ ul {
 	font-size: 20vh;
 }
 
-.impress-on-title2 {
-    color: yellow;
-}
-
-#title21 {
-	font-size: 20vh;
-}
-
-.impress-on-title21 {
-    color: yellow;
-}
-
-.impress-on-darkness0 {
-    color: yellow;
-	opacity: 0;
-}
-
-.impress-on-darkness1 {
-    opacity: 0;
-}
-
 .impress-on-box .step {
     opacity: 0.5;
 }
@@ -54,4 +33,9 @@ ul {
     transition: border-color 10000ms ease, opacity 1000ms linear;
     padding-top: 20vh;
     padding-bottom: 20vh;
+}
+
+#thanks div {
+	font-size: 6vh;
+	line-height:10vh;
 }
