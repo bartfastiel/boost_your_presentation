@@ -10,7 +10,7 @@ you know exactly what you want to say
 but you do not know HOW to say it.
 
 Welcome to "Boost Your Presentation"!
-An interactive talk that will give you new ideas
+An interactive talk that will give you seven new ideas
 on how to make your presentation exciting, fun and easy to remember.
 
 # Intro
@@ -43,19 +43,10 @@ A year, a decade, a lifetime.
 
 Others fade quickly. Within hours, minutes seconds.
 
-Why do I always forget to take out the trash,
-if my wife tells me to do it?
-When I get to know someone, why do I forget his name instantly?
-And why will I never forget the day, when I got to know my wife?
+How can we make our presentation easy to remember?
 
-Strong memories are built, by
-* extraordinary experiences
-* repetition
-* having impact on your future.
-
-# Extraordinary experiences
-
-What is an experience? It is something, touching one of our senses.
+God gave us seven input / output devices:
+Let's use them all!
 
 ## One Eye
 
@@ -66,4 +57,10 @@ How could we make our presentation an extraordinary experience for her?
 
 You could write down a joke.
 You could show her a video.
-You could 
+You could send her an email.
+
+And some presentations seem to be made exactly for HER.
+
+## Second Eye
+
+Now let's consider an audience with two eyes.
